@@ -1,6 +1,7 @@
 # EXAMPLE # 13
 # Save this code in a file named mymodule.py
 def greeting(name):
+    print("Example 15: ")
     print("Hello, " + name)
 
 
